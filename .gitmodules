@@ -1,0 +1,9 @@
+[submodule "btree_network"]
+	path = btree_network
+	url = https://github.com/jameone/btree_network.git
+[submodule "btree_graph"]
+	path = btree_graph
+	url = https://github.com/jameone/btree_graph.git
+[submodule "try_encoding_from"]
+	path = try_encoding_from
+	url = https://github.com/jameone/try_encoding_from.git

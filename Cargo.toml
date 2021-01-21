@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"btree_graph",
+	"btree_network",
+	"try_encoding_from"
+]
