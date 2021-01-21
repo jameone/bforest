@@ -23,11 +23,11 @@ A collection of btree wrappers with convenient APIs.
 
 # Submodule Badge Matrix
  
-| Submodule          | Build Status                                              | Version                                                         | Documentation                                              |
-| ---------------- | :---------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------: |
-| btree_graph      | [![CodeBuild(btree_network)]][CodeBuild(btree_graph)]       | [![Version badge(btree_network)]][crates.io(btree_graph)]       | [![Docs badge(btree_network)]][docs.rs(btree_graph)]       |
-| btree_network    | [![CodeBuild(btree_network)]][CodeBuild(btree_network)]     | [![Version badge(btree_network)]][crates.io(btree_network)]     | [![Docs badge(btree_network)]][docs.rs(btree_network)]     |
-| try_encoding_for | [![CodeBuild(btree_network)]][CodeBuild(try_encoding_from)] | [![Version badge(btree_network)]][crates.io(try_encoding_from)] | [![Docs badge(btree_network)]][docs.rs(try_encoding_from)] |
+| Submodule          | Build Status                                                  | Version                                                             | Documentation                                                  |
+| ---------------- | :-------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------: |
+| btree_graph      | [![CodeBuild(btree_graph)]][CodeBuild(btree_graph)]             | [![Version badge(btree_graph)]][crates.io(btree_graph)]             | [![Docs badge(btree_graph)]][docs.rs(btree_graph)]             |
+| btree_network    | [![CodeBuild(btree_network)]][CodeBuild(btree_network)]         | [![Version badge(btree_network)]][crates.io(btree_network)]         | [![Docs badge(btree_network)]][docs.rs(btree_network)]         |
+| try_encoding_for | [![CodeBuild(try_encoding_from)]][CodeBuild(try_encoding_from)] | [![Version badge(try_encoding_from)]][crates.io(try_encoding_from)] | [![Docs badge(try_encoding_from)]][docs.rs(try_encoding_from)] |
 
 ## License
 
