@@ -7,3 +7,6 @@
 [submodule "try_encoding_from"]
 	path = try_encoding_from
 	url = https://github.com/jameone/try_encoding_from.git
+[submodule "btree_dag"]
+	path = btree_dag
+	url = https://github.com/jameone/btree_dag.git
