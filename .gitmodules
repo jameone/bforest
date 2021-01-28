@@ -10,3 +10,6 @@
 [submodule "btree_dag"]
 	path = btree_dag
 	url = https://github.com/jameone/btree_dag.git
+[submodule "btree_reducer"]
+	path = btree_reducer
+	url = https://github.com/jameone/btree_reducer.git

@@ -72,6 +72,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "btree_reducer"
+version = "0.1.0"
+dependencies = [
+ "btree_dag",
+]
+
+[[package]]
 name = "bumpalo"
 version = "3.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
