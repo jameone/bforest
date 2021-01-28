@@ -37,11 +37,11 @@ A collection of btree wrappers with convenient APIs.
  
 | Submodule          | Build Status                                                  | Version                                                             | Documentation                                                  |
 | ---------------- | :-------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------: |
+| btree_dag        | [![CodeBuild(btree_dag)]][CodeBuild(btree_dag)]                 | [![Version badge(btree_dag)]][crates.io(btree_dag)]                 | [![Docs badge(btree_dag)]][docs.rs(btree_dag)]                 |
 | btree_graph      | [![CodeBuild(btree_graph)]][CodeBuild(btree_graph)]             | [![Version badge(btree_graph)]][crates.io(btree_graph)]             | [![Docs badge(btree_graph)]][docs.rs(btree_graph)]             |
 | btree_network    | [![CodeBuild(btree_network)]][CodeBuild(btree_network)]         | [![Version badge(btree_network)]][crates.io(btree_network)]         | [![Docs badge(btree_network)]][docs.rs(btree_network)]         |
-| try_encoding_for | [![CodeBuild(try_encoding_from)]][CodeBuild(try_encoding_from)] | [![Version badge(try_encoding_from)]][crates.io(try_encoding_from)] | [![Docs badge(try_encoding_from)]][docs.rs(try_encoding_from)] |
 | btree_reducer    | [![CodeBuild(btree_reducer)]][CodeBuild(btree_reducer)]         | [![Version badge(btree_reducer)]][crates.io(btree_reducer)]         | [![Docs badge(btree_reducer)]][docs.rs(btree_reducer)]         |
-| btree_dag        | [![CodeBuild(btree_dag)]][CodeBuild(btree_dag)]                 | [![Version badge(btree_dag)]][crates.io(btree_dag)]                 | [![Docs badge(btree_dag)]][docs.rs(btree_dag)]                 |
+| try_encoding_for | [![CodeBuild(try_encoding_from)]][CodeBuild(try_encoding_from)] | [![Version badge(try_encoding_from)]][crates.io(try_encoding_from)] | [![Docs badge(try_encoding_from)]][docs.rs(try_encoding_from)] |
 
 ## License
 
