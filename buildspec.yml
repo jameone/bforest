@@ -14,4 +14,3 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-  base-directory: $CODEBUILD_SRC_DIR/target
