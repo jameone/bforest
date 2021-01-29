@@ -1,0 +1,20 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - cd $CODEBUILD_SRC_DIR
+      - rustup update stable
+      - rustup default stable
+  build:
+    commands:
+      - echo Build started on `date`
+      - cargo build --all-features --verbose --workspace
+      - cargo test --all-features --verbose --workspace
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - cov/**/*
+  base-directory: $CODEBUILD_SRC_DIR/target

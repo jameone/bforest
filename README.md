@@ -1,5 +1,16 @@
 # Binary Forest (bforest)
 
+
+[![CodeBuild(bforest)]][CodeBuild(bforest)]
+[![Version badge(bforest)]][crates.io(bforest)]
+[![Docs badge(bforest)]][docs.rs(bforest)]
+
+[CodeBuild(bforest)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1ZNOXdDNDVpM09TOGtZRmUxU083d3pzSlR1K1VQZUQ0MkdDbW5Ldlp6ZFpsdFZVcXFMTktmR3RwWmd2bFVnMGRWOUxzSEdMV1Nqbkw5YUpiL2h3Q2VRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJiR0U0NmQvMHk3RnUwZUUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[Version badge(bforest)]: https://img.shields.io/crates/v/bforest
+[crates.io(bforest)]: https://crates.io/crates/bforest
+[Docs badge(bforest)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
+[docs.rs(bforest)]: https://docs.rs/bforest/
+
 A collection of btree wrappers with convenient APIs.
 
 [CodeBuild(btree_graph)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoicTFLVlFuVGxzbTAxb0VickliMHlZUVlrVkZLbnVnVnZlcjQvb0dzWGNGdUEwdFFBbC9FdDZmMVhEcGZkbTFUeUs3YVNsOWpvVWlDdkdmdlVzazBmbkNZPSIsIml2UGFyYW1ldGVyU3BlYyI6IkpSdEZ5WEtLZmtrbUs1MDQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
