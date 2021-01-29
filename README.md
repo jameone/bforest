@@ -5,7 +5,7 @@
 [![Version badge(bforest)]][crates.io(bforest)]
 [![Docs badge(bforest)]][docs.rs(bforest)]
 
-[CodeBuild(bforest)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1ZNOXdDNDVpM09TOGtZRmUxU083d3pzSlR1K1VQZUQ0MkdDbW5Ldlp6ZFpsdFZVcXFMTktmR3RwWmd2bFVnMGRWOUxzSEdMV1Nqbkw5YUpiL2h3Q2VRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJiR0U0NmQvMHk3RnUwZUUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(bforest)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoicmZRVkFrUmkrUitmWlZOa2k5dE1YQVBxNHNjZG1FTndJUnlWbzJFYmY0Q2FoaVQzTlZIc0kwSi9CZ2FHZjZWZVhFdUR1V3pDd1JKQUdvZUlEYTh6b0ZRPSIsIml2UGFyYW1ldGVyU3BlYyI6IlBpZ3hmVU5VY245dHBvNDMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge(bforest)]: https://img.shields.io/crates/v/bforest
 [crates.io(bforest)]: https://crates.io/crates/bforest
 [Docs badge(bforest)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
