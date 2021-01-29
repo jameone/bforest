@@ -32,12 +32,18 @@ A collection of btree wrappers with convenient APIs.
 [Docs badge(btree_dag)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
 [docs.rs(btree_dag)]: https://docs.rs/btree_dag/
 
+[CodeBuild(btree_error)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1ZNOXdDNDVpM09TOGtZRmUxU083d3pzSlR1K1VQZUQ0MkdDbW5Ldlp6ZFpsdFZVcXFMTktmR3RwWmd2bFVnMGRWOUxzSEdMV1Nqbkw5YUpiL2h3Q2VRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJiR0U0NmQvMHk3RnUwZUUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[Version badge(btree_error)]: https://img.shields.io/crates/v/btree_error
+[crates.io(btree_error)]: https://crates.io/crates/btree_error
+[Docs badge(btree_error)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
+[docs.rs(btree_error)]: https://docs.rs/btree_error/
 
 # Submodule Badge Matrix
  
 | Submodule          | Build Status                                                  | Version                                                             | Documentation                                                  |
 | ---------------- | :-------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------: |
 | btree_dag        | [![CodeBuild(btree_dag)]][CodeBuild(btree_dag)]                 | [![Version badge(btree_dag)]][crates.io(btree_dag)]                 | [![Docs badge(btree_dag)]][docs.rs(btree_dag)]                 |
+| btree_error      | [![CodeBuild(btree_error)]][CodeBuild(btree_error)]             | [![Version badge(btree_error)]][crates.io(btree_error)]             | [![Docs badge(btree_error)]][docs.rs(btree_error)]             |
 | btree_graph      | [![CodeBuild(btree_graph)]][CodeBuild(btree_graph)]             | [![Version badge(btree_graph)]][crates.io(btree_graph)]             | [![Docs badge(btree_graph)]][docs.rs(btree_graph)]             |
 | btree_network    | [![CodeBuild(btree_network)]][CodeBuild(btree_network)]         | [![Version badge(btree_network)]][crates.io(btree_network)]         | [![Docs badge(btree_network)]][docs.rs(btree_network)]         |
 | btree_reducer    | [![CodeBuild(btree_reducer)]][CodeBuild(btree_reducer)]         | [![Version badge(btree_reducer)]][crates.io(btree_reducer)]         | [![Docs badge(btree_reducer)]][docs.rs(btree_reducer)]         |
