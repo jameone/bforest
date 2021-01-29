@@ -13,3 +13,6 @@
 [submodule "btree_reducer"]
 	path = btree_reducer
 	url = https://github.com/jameone/btree_reducer.git
+[submodule "btree_error"]
+	path = btree_error
+	url = https://github.com/jameone/btree_error.git
