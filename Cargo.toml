@@ -2,6 +2,7 @@
 
 members = [
 	"btree_dag",
+	"btree_error",
 	"btree_graph",
 	"btree_network",
 	"btree_reducer",
