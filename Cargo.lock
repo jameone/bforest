@@ -80,7 +80,7 @@ dependencies = [
  "btree_error 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "criterion",
  "serde",
- "try_encoding_from 0.1.3",
+ "try_encoding_from 0.1.3 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
