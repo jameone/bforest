@@ -37,13 +37,13 @@ A collection of btree wrappers with convenient APIs.
 [Docs badge(btree_reducer)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
 [docs.rs(btree_reducer)]: https://docs.rs/btree_reducer/
 
-[CodeBuild(btree_dag)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1ZNOXdDNDVpM09TOGtZRmUxU083d3pzSlR1K1VQZUQ0MkdDbW5Ldlp6ZFpsdFZVcXFMTktmR3RwWmd2bFVnMGRWOUxzSEdMV1Nqbkw5YUpiL2h3Q2VRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJiR0U0NmQvMHk3RnUwZUUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(btree_dag)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQ3dscGZZSUxvTm0wU0R2SVVGVnJ0dnh1bENNazNVaW42VncwcTZVOVZEeVBBZzRvaUNDZEV4Rm1xQ3kycVM3cmR5MGN0dC9iQkZMbXNkeG52Uk9yMG1RPSIsIml2UGFyYW1ldGVyU3BlYyI6InVRby9LeitwNTVkN0JTUWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge(btree_dag)]: https://img.shields.io/crates/v/btree_dag
 [crates.io(btree_dag)]: https://crates.io/crates/btree_dag
 [Docs badge(btree_dag)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
 [docs.rs(btree_dag)]: https://docs.rs/btree_dag/
 
-[CodeBuild(btree_error)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1ZNOXdDNDVpM09TOGtZRmUxU083d3pzSlR1K1VQZUQ0MkdDbW5Ldlp6ZFpsdFZVcXFMTktmR3RwWmd2bFVnMGRWOUxzSEdMV1Nqbkw5YUpiL2h3Q2VRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJiR0U0NmQvMHk3RnUwZUUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(btree_error)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS0JKWUZxR2dEQmgydm9hczFTOUhqRDdwbFlmQ3FnZzErc3VVSWxmUzNNdjJ6T0FKemJEMVIyU01Hb0w2Q042a2pmdENBRDNlc20zVXlxRGVpdXlUbGJBPSIsIml2UGFyYW1ldGVyU3BlYyI6IlRnUFlMVGdJM2VpVzZ6bEkiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge(btree_error)]: https://img.shields.io/crates/v/btree_error
 [crates.io(btree_error)]: https://crates.io/crates/btree_error
 [Docs badge(btree_error)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
