@@ -25,7 +25,7 @@ A collection of btree wrappers with convenient APIs.
 [Docs badge(try_encoding_from)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
 [docs.rs(try_encoding_from)]: https://docs.rs/try_encoding_from/
 
-[CodeBuild(btree_network)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1ZNOXdDNDVpM09TOGtZRmUxU083d3pzSlR1K1VQZUQ0MkdDbW5Ldlp6ZFpsdFZVcXFMTktmR3RwWmd2bFVnMGRWOUxzSEdMV1Nqbkw5YUpiL2h3Q2VRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImJiR0U0NmQvMHk3RnUwZUUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(btree_network)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidm9wRDJYSzlzMm02RDhvTllnRXBaTXRBclZzaEhQREVySnZiMjVybzQ1QTJOODBiY3VKUzg0WmR4bzFJV3p6N3JOL1lEMitMT1RZTGNkQ3JtblZqam9FPSIsIml2UGFyYW1ldGVyU3BlYyI6IklCWVc3T01oZFJSQnVwRWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge(btree_network)]: https://img.shields.io/crates/v/btree_network
 [crates.io(btree_network)]: https://crates.io/crates/btree_network
 [Docs badge(btree_network)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
