@@ -42,7 +42,7 @@ dependencies = [
  "btree_error 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "criterion",
  "serde",
- "try_encoding_from 0.1.3 (registry+https://github.com/rust-lang/crates.io-index)",
+ "try_encoding_from",
 ]
 
 [[package]]
@@ -51,7 +51,7 @@ version = "0.1.0"
 dependencies = [
  "criterion",
  "serde",
- "try_encoding_from 0.1.3 (registry+https://github.com/rust-lang/crates.io-index)",
+ "try_encoding_from",
 ]
 
 [[package]]
@@ -60,7 +60,7 @@ version = "0.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4ea52faad923b961918e5006b238322690225cc353143c763a22c6ffc29f27f4"
 dependencies = [
- "try_encoding_from 0.1.3 (registry+https://github.com/rust-lang/crates.io-index)",
+ "try_encoding_from",
 ]
 
 [[package]]
@@ -70,7 +70,7 @@ dependencies = [
  "btree_error 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "criterion",
  "serde",
- "try_encoding_from 0.1.3 (registry+https://github.com/rust-lang/crates.io-index)",
+ "try_encoding_from",
 ]
 
 [[package]]
@@ -80,7 +80,7 @@ dependencies = [
  "btree_error 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "criterion",
  "serde",
- "try_encoding_from 0.1.3 (registry+https://github.com/rust-lang/crates.io-index)",
+ "try_encoding_from",
 ]
 
 [[package]]
@@ -89,6 +89,7 @@ version = "0.1.0"
 dependencies = [
  "btree_dag",
  "btree_error 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "try_encoding_from",
 ]
 
 [[package]]
@@ -568,18 +569,6 @@ checksum = "a2ada8616fad06a2d0c455adc530de4ef57605a8120cc65da9653e0e9623ca74"
 dependencies = [
  "serde",
  "serde_json",
-]
-
-[[package]]
-name = "try_encoding_from"
-version = "0.1.3"
-dependencies = [
- "btree_graph",
- "criterion",
- "serde",
- "serde_cbor",
- "serde_json",
- "serde_yaml",
 ]
 
 [[package]]

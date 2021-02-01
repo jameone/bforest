@@ -6,5 +6,4 @@ members = [
 	"btree_graph",
 	"btree_network",
 	"btree_reducer",
-	"try_encoding_from"
 ]
