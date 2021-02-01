@@ -10,7 +10,6 @@ phases:
     commands:
       - echo Build started on `date`
       - cargo build --all-features --verbose --workspace
-      - cargo test --all-features --verbose --workspace
       - cargo kcov -- --include-pattern="$(pwd)" --exclude-pattern=test.rs
   post_build:
     commands:

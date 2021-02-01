@@ -25,12 +25,6 @@ A collection of btree wrappers with convenient APIs.
 [Docs badge(btree_graph)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
 [docs.rs(btree_graph)]: https://docs.rs/btree_graph/
 
-[CodeBuild(try_encoding_from)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSno5eWZOM0RtRkdabjJ2eG03dnQ3UzEvVTFIMGlPbklsajc0cHRiK3NCZXdpaXNxc09pdHhlK3Rta0FvTEsvdkgxcmZubTdUZ2dSMDM1THlhOG1oQlYwPSIsIml2UGFyYW1ldGVyU3BlYyI6IjNjVXFQdTJvamgxUUozMUciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
-[Version badge(try_encoding_from)]: https://img.shields.io/crates/v/try_encoding_from
-[crates.io(try_encoding_from)]: https://crates.io/crates/try_encoding_from
-[Docs badge(try_encoding_from)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
-[docs.rs(try_encoding_from)]: https://docs.rs/try_encoding_from/
-
 [CodeBuild(btree_network)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidm9wRDJYSzlzMm02RDhvTllnRXBaTXRBclZzaEhQREVySnZiMjVybzQ1QTJOODBiY3VKUzg0WmR4bzFJV3p6N3JOL1lEMitMT1RZTGNkQ3JtblZqam9FPSIsIml2UGFyYW1ldGVyU3BlYyI6IklCWVc3T01oZFJSQnVwRWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge(btree_network)]: https://img.shields.io/crates/v/btree_network
 [crates.io(btree_network)]: https://crates.io/crates/btree_network
@@ -64,7 +58,6 @@ A collection of btree wrappers with convenient APIs.
 | btree_graph      | [![CodeBuild(btree_graph)]][CodeBuild(btree_graph)]             | [![Version badge(btree_graph)]][crates.io(btree_graph)]             | [![Docs badge(btree_graph)]][docs.rs(btree_graph)]             |
 | btree_network    | [![CodeBuild(btree_network)]][CodeBuild(btree_network)]         | [![Version badge(btree_network)]][crates.io(btree_network)]         | [![Docs badge(btree_network)]][docs.rs(btree_network)]         |
 | btree_reducer    | [![CodeBuild(btree_reducer)]][CodeBuild(btree_reducer)]         | [![Version badge(btree_reducer)]][crates.io(btree_reducer)]         | [![Docs badge(btree_reducer)]][docs.rs(btree_reducer)]         |
-| try_encoding_for | [![CodeBuild(try_encoding_from)]][CodeBuild(try_encoding_from)] | [![Version badge(try_encoding_from)]][crates.io(try_encoding_from)] | [![Docs badge(try_encoding_from)]][docs.rs(try_encoding_from)] |
 
 ## License
 
